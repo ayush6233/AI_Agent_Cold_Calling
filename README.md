@@ -95,15 +95,4 @@ Edit
 python main.py
 Follow the on-screen prompts to select a scenario and interact with the agent.
 
-Repository Submission Details
-Repository:
-Ensure all project files (including training scripts and data preprocessing steps) are pushed to your private repository.
-Access:
-Grant access to rs@imax.co.in.
-Submission Email:
-Send an email with the subject:
-AI Agent Project Submission - [Your Full Name]
-Include your full name, a link to the GitHub/GitLab repository, and a link to the demonstration video.
-License
-This project is submitted as part of the AI Agent Practical Test by iMax Global Ventures Ltd. It is intended solely for evaluation purposes.
 
