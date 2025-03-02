@@ -95,4 +95,6 @@ Edit
 python main.py
 Follow the on-screen prompts to select a scenario and interact with the agent.
 
+Loom video link -- https://www.loom.com/share/37d3b90f6ce3468186fdd0a35b71bcca?sid=e04548bb-ace9-4a35-b1e1-94c19d2cb5b9
+
 
